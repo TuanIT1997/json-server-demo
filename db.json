@@ -1,0 +1,314 @@
+{
+  "categories": [
+    {
+      "id": "d2181476-95ca-4176-a09c-dbdfb1fb4f94",
+      "name": "Grocery",
+      "createdAt": 1744104862087,
+      "updatedAt": 1744104862087
+    },
+    {
+      "id": "ded79e86-472f-48d0-9033-1ba68b6980d2",
+      "name": "Electronics",
+      "createdAt": 1744104862087,
+      "updatedAt": 1744104862087
+    },
+    {
+      "id": "3df709ab-f621-4123-8c19-42ff39ca939b",
+      "name": "Books",
+      "createdAt": 1744104862087,
+      "updatedAt": 1744104862087
+    },
+    {
+      "id": "c197d22f-7092-4a10-924d-b35b0e53cebc",
+      "name": "Home",
+      "createdAt": 1744104862087,
+      "updatedAt": 1744104862087
+    },
+    {
+      "id": "054bf090-b6b4-4680-a850-a5979413d65d",
+      "name": "Garden",
+      "createdAt": 1744104862087,
+      "updatedAt": 1744104862087
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "d2181476-95ca-4176-a09c-dbdfb1fb4f94",
+      "id": "4513e921-b7dd-4630-965d-891c45c2f212",
+      "name": "Luxurious Rubber Shoes",
+      "color": "tan",
+      "price": "730.05",
+      "description": "Discover the sad new Chair with an exciting mix of Metal ingredients",
+      "createdAt": 1744104862089,
+      "updatedAt": 1744104862089,
+      "thumbnail": "https://picsum.photos/seed/pr0G1/1303/2174"
+    },
+    {
+      "categoryId": "d2181476-95ca-4176-a09c-dbdfb1fb4f94",
+      "id": "02383318-4d62-4bcb-a5b1-27ac4a2e5502",
+      "name": "Intelligent Steel Towels",
+      "color": "red",
+      "price": "572.49",
+      "description": "New green Table with ergonomic design for baggy comfort",
+      "createdAt": 1744104862089,
+      "updatedAt": 1744104862089,
+      "thumbnail": "https://loremflickr.com/267/1374?lock=5075673005797628"
+    },
+    {
+      "categoryId": "d2181476-95ca-4176-a09c-dbdfb1fb4f94",
+      "id": "7d2f6066-0a80-4f18-84f9-cf513ba00f2d",
+      "name": "Fantastic Metal Keyboard",
+      "color": "pink",
+      "price": "70.69",
+      "description": "Our sweet-inspired Computer brings a taste of luxury to your teeming lifestyle",
+      "createdAt": 1744104862089,
+      "updatedAt": 1744104862089,
+      "thumbnail": "https://loremflickr.com/110/307?lock=8979265899608883"
+    },
+    {
+      "categoryId": "d2181476-95ca-4176-a09c-dbdfb1fb4f94",
+      "id": "54812eb1-cc36-45d1-b0fd-a3281965ea1f",
+      "name": "Sleek Concrete Bacon",
+      "color": "purple",
+      "price": "523.03",
+      "description": "Savor the rich essence in our Shirt, designed for unfortunate culinary adventures",
+      "createdAt": 1744104862089,
+      "updatedAt": 1744104862089,
+      "thumbnail": "https://loremflickr.com/1364/1626?lock=2534499666217732"
+    },
+    {
+      "categoryId": "d2181476-95ca-4176-a09c-dbdfb1fb4f94",
+      "id": "1170de09-5923-4361-9b45-3c090e8c061b",
+      "name": "Handcrafted Metal Cheese",
+      "color": "white",
+      "price": "462.22",
+      "description": "Discover the giraffe-like agility of our Gloves, perfect for bogus users",
+      "createdAt": 1744104862090,
+      "updatedAt": 1744104862090,
+      "thumbnail": "https://picsum.photos/seed/wm31L2qBcU/3234/1445"
+    },
+    {
+      "categoryId": "ded79e86-472f-48d0-9033-1ba68b6980d2",
+      "id": "89e1a73f-6f91-4767-8fcc-7b92f292f4e8",
+      "name": "Soft Aluminum Tuna",
+      "color": "olive",
+      "price": "979.55",
+      "description": "Professional-grade Computer perfect for excellent training and recreational use",
+      "createdAt": 1744104862090,
+      "updatedAt": 1744104862090,
+      "thumbnail": "https://loremflickr.com/634/3080?lock=8322955419536604"
+    },
+    {
+      "categoryId": "ded79e86-472f-48d0-9033-1ba68b6980d2",
+      "id": "e2f3e910-8bd5-4216-b7a5-17000960c33c",
+      "name": "Handmade Bronze Salad",
+      "color": "lavender",
+      "price": "136.95",
+      "description": "New Mouse model with 6 GB RAM, 926 GB storage, and decent features",
+      "createdAt": 1744104862090,
+      "updatedAt": 1744104862090,
+      "thumbnail": "https://picsum.photos/seed/5ebN97jO3m/178/432"
+    },
+    {
+      "categoryId": "ded79e86-472f-48d0-9033-1ba68b6980d2",
+      "id": "56224ff4-8b9c-4cf0-aafa-44b347adc028",
+      "name": "Tasty Cotton Hat",
+      "color": "lime",
+      "price": "623.15",
+      "description": "Jacobson Inc's most advanced Cheese technology increases rural capabilities",
+      "createdAt": 1744104862090,
+      "updatedAt": 1744104862090,
+      "thumbnail": "https://picsum.photos/seed/WmTWZG/1117/3882"
+    },
+    {
+      "categoryId": "ded79e86-472f-48d0-9033-1ba68b6980d2",
+      "id": "31e9f55a-c140-4b8e-b6d2-78ca4f73d9ff",
+      "name": "Awesome Plastic Shirt",
+      "color": "gold",
+      "price": "753.80",
+      "description": "The olive Salad combines Barbados aesthetics with Germanium-based durability",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://picsum.photos/seed/gSOmCy/1674/2805"
+    },
+    {
+      "categoryId": "ded79e86-472f-48d0-9033-1ba68b6980d2",
+      "id": "061c2db2-f3d1-405e-a65a-82cb937049b6",
+      "name": "Generic Steel Pizza",
+      "color": "grey",
+      "price": "330.19",
+      "description": "Introducing the Thailand-inspired Chicken, blending wee style with local craftsmanship",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://picsum.photos/seed/YvAnLTDIf/3570/3740"
+    },
+    {
+      "categoryId": "3df709ab-f621-4123-8c19-42ff39ca939b",
+      "id": "9b54bd9f-fdd0-4291-84d4-3d9be798738f",
+      "name": "Small Marble Chips",
+      "color": "gold",
+      "price": "126.99",
+      "description": "Innovative Bacon featuring tight technology and Metal construction",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://loremflickr.com/2674/54?lock=6811290194084284"
+    },
+    {
+      "categoryId": "3df709ab-f621-4123-8c19-42ff39ca939b",
+      "id": "37b7f443-7c04-4289-b6d9-369643780402",
+      "name": "Handmade Gold Gloves",
+      "color": "magenta",
+      "price": "220.09",
+      "description": "The magenta Chair combines Armenia aesthetics with Indium-based durability",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://picsum.photos/seed/4y6b2SX/2373/3954"
+    },
+    {
+      "categoryId": "3df709ab-f621-4123-8c19-42ff39ca939b",
+      "id": "a85955e3-b516-4a6a-9419-d503b5954806",
+      "name": "Sleek Steel Hat",
+      "color": "pink",
+      "price": "745.15",
+      "description": "Discover the bird-like agility of our Tuna, perfect for smug users",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://picsum.photos/seed/5JgQN/699/842"
+    },
+    {
+      "categoryId": "3df709ab-f621-4123-8c19-42ff39ca939b",
+      "id": "5f14df06-a5bd-447e-9b7a-cb5f8d76efd5",
+      "name": "Ergonomic Granite Chips",
+      "color": "magenta",
+      "price": "826.45",
+      "description": "The grey Mouse combines Russian Federation aesthetics with Potassium-based durability",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://loremflickr.com/2177/1933?lock=5731407959066832"
+    },
+    {
+      "categoryId": "3df709ab-f621-4123-8c19-42ff39ca939b",
+      "id": "8ea7bd43-bd0f-4c76-9b79-8a87f2b26ac8",
+      "name": "Soft Aluminum Chicken",
+      "color": "olive",
+      "price": "179.59",
+      "description": "Pacocha, Weimann and Davis's most advanced Cheese technology increases skeletal capabilities",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://picsum.photos/seed/LPkezma5j/1576/884"
+    },
+    {
+      "categoryId": "c197d22f-7092-4a10-924d-b35b0e53cebc",
+      "id": "8dba33b7-b4cf-4622-838c-d128d14ff9cb",
+      "name": "Gorgeous Wooden Table",
+      "color": "orange",
+      "price": "636.95",
+      "description": "Discover the roasted new Pants with an exciting mix of Plastic ingredients",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://loremflickr.com/2892/437?lock=6483306121855527"
+    },
+    {
+      "categoryId": "c197d22f-7092-4a10-924d-b35b0e53cebc",
+      "id": "5ffd246e-a64c-4468-9b84-079acef62d72",
+      "name": "Unbranded Cotton Cheese",
+      "color": "violet",
+      "price": "863.99",
+      "description": "Fresh Gloves designed with Concrete for greedy performance",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://loremflickr.com/2714/1927?lock=3936427823962055"
+    },
+    {
+      "categoryId": "c197d22f-7092-4a10-924d-b35b0e53cebc",
+      "id": "2e5fd531-b85d-4d92-88e4-8f262b1e3722",
+      "name": "Ergonomic Gold Bacon",
+      "color": "maroon",
+      "price": "476.49",
+      "description": "Experience the purple brilliance of our Table, perfect for flawless environments",
+      "createdAt": 1744104862091,
+      "updatedAt": 1744104862091,
+      "thumbnail": "https://loremflickr.com/2069/3267?lock=7166375667563635"
+    },
+    {
+      "categoryId": "c197d22f-7092-4a10-924d-b35b0e53cebc",
+      "id": "91e39639-4b3b-4cf8-822b-646379b1b938",
+      "name": "Oriental Bronze Computer",
+      "color": "red",
+      "price": "981.20",
+      "description": "The Jarret Shirt is the latest in a series of descriptive products from Bergstrom - Kris",
+      "createdAt": 1744104862092,
+      "updatedAt": 1744104862092,
+      "thumbnail": "https://picsum.photos/seed/cJV47/548/3198"
+    },
+    {
+      "categoryId": "c197d22f-7092-4a10-924d-b35b0e53cebc",
+      "id": "f54747e0-f9d5-4a45-9bae-d70416c78622",
+      "name": "Unbranded Aluminum Table",
+      "color": "indigo",
+      "price": "715.65",
+      "description": "The Isai Shoes is the latest in a series of shimmering products from Reynolds Inc",
+      "createdAt": 1744104862092,
+      "updatedAt": 1744104862092,
+      "thumbnail": "https://loremflickr.com/2730/3718?lock=1638092126603228"
+    },
+    {
+      "categoryId": "054bf090-b6b4-4680-a850-a5979413d65d",
+      "id": "dfe08fe3-1971-4384-ba95-2bd8f430f81f",
+      "name": "Awesome Metal Sausages",
+      "color": "plum",
+      "price": "848.39",
+      "description": "Experience the grey brilliance of our Gloves, perfect for right environments",
+      "createdAt": 1744104862092,
+      "updatedAt": 1744104862092,
+      "thumbnail": "https://picsum.photos/seed/taSb6Ap/3041/1243"
+    },
+    {
+      "categoryId": "054bf090-b6b4-4680-a850-a5979413d65d",
+      "id": "9ecbd8ef-82d3-40b6-9982-752c06151bc0",
+      "name": "Recycled Gold Shirt",
+      "color": "orange",
+      "price": "344.19",
+      "description": "Professional-grade Chips perfect for busy training and recreational use",
+      "createdAt": 1744104862092,
+      "updatedAt": 1744104862092,
+      "thumbnail": "https://picsum.photos/seed/ngZbi/3762/554"
+    },
+    {
+      "categoryId": "054bf090-b6b4-4680-a850-a5979413d65d",
+      "id": "29b09c6b-7562-47be-bb7e-89d90ea774be",
+      "name": "Oriental Concrete Pizza",
+      "color": "purple",
+      "price": "141.30",
+      "description": "The Audie Tuna is the latest in a series of hurtful products from Schamberger Group",
+      "createdAt": 1744104862092,
+      "updatedAt": 1744104862092,
+      "thumbnail": "https://loremflickr.com/2130/1145?lock=3659319757626800"
+    },
+    {
+      "categoryId": "054bf090-b6b4-4680-a850-a5979413d65d",
+      "id": "f887abf9-be13-40ca-abda-e78dce0b4329",
+      "name": "Sleek Silk Keyboard",
+      "color": "lime",
+      "price": "499.35",
+      "description": "New yellow Chair with ergonomic design for candid comfort",
+      "createdAt": 1744104862092,
+      "updatedAt": 1744104862092,
+      "thumbnail": "https://loremflickr.com/2031/1345?lock=6136963265958815"
+    },
+    {
+      "categoryId": "054bf090-b6b4-4680-a850-a5979413d65d",
+      "id": "2d448353-ee08-454e-848e-74e62f0cf85e",
+      "name": "Handmade Silk Bacon",
+      "color": "ivory",
+      "price": "94.85",
+      "description": "The orchid Table combines Spain aesthetics with Iridium-based durability",
+      "createdAt": 1744104862092,
+      "updatedAt": 1744104862092,
+      "thumbnail": "https://picsum.photos/seed/z0hJM/2841/1183"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
